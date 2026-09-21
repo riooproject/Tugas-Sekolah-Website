@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "judul": "Class Meeting",
+    "deskripsi": "Kegiatan class meeting antar kelas.",
+    "tanggal": "2026-09-20"
+  },
+  {
+    "id": 2,
+    "judul": "Upacara Bendera",
+    "deskripsi": "Kegiatan upacara bendera rutin sekolah.",
+    "tanggal": "2026-09-21"
+  }
+]
