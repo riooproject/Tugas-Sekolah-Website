@@ -1,4 +1,4 @@
-# 🏫 SMA Pelita Harapan
+#  SMA Pelita Harapan
 
 Website profil **SMA Pelita Harapan** yang dibuat sebagai media informasi digital untuk memperkenalkan sekolah, program pendidikan, kegiatan siswa, PPDB, galeri, dan informasi kontak.
 
